@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpCilentDemo", "UdpCilentDemo\UdpCilentDemo.csproj", "{E938D306-96A8-4F7B-A288-0856D80D850D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UdpWinFormDemo", "UdpWinFormDemo\UdpWinFormDemo.csproj", "{6120710B-50C4-4C20-B5E0-9DCBBCE4ECBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E938D306-96A8-4F7B-A288-0856D80D850D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E938D306-96A8-4F7B-A288-0856D80D850D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E938D306-96A8-4F7B-A288-0856D80D850D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6120710B-50C4-4C20-B5E0-9DCBBCE4ECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6120710B-50C4-4C20-B5E0-9DCBBCE4ECBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6120710B-50C4-4C20-B5E0-9DCBBCE4ECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6120710B-50C4-4C20-B5E0-9DCBBCE4ECBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
